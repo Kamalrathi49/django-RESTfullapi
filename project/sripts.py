@@ -17,14 +17,14 @@ posts = [{
   "author": "Dr. Krishna Saksena",
   "rating": 1
 }, {
-  "name": "	A Revenue Stamp",
+  "name": "A Revenue Stamp",
   "author": "Amrita Pritam",
   "rating": 0
 }]
 
 for item in posts:
     post = Post.objects.create(
-        name=item['name'],
+        book_name=item['name'],
         author=item['author'],
         rating=item['rating']
     )
