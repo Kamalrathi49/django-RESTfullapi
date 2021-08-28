@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-#### This is a complete project in itself in which I used Django and djangorestframework a python Framework to create RESTfull API.
+#### This is a complete project in itself in which I used Django and djangorestframework to create RESTfull API.
 ## What Inside folder
 - django complete setup include
     - django project
