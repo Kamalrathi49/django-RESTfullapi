@@ -1,5 +1,5 @@
 # django-RESTfullapi
-### Demo - https://django-RESTfullapi.herokuapp.com/
+### Demo - https://django-restfullapi.herokuapp.com/
 #### Code - https://github.com/Kamalrathi49/django-RESTfullapi
 #### Detail Brochure
 
