@@ -1,49 +1,45 @@
-# SalaryBox
-### Demo - https://salaryboxapp.herokuapp.com/
-#### Code - https://github.com/Kamalrathi49/salarybox
+# django-RESTfullapi
+### Demo - https://django-RESTfullapi.herokuapp.com/
+#### Code - https://github.com/Kamalrathi49/django-RESTfullapi
 #### Detail Brochure
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-#### This is a complete project in itself in which I used Django a python Framework with Bootstrap and jquery library.
+#### This is a complete project in itself in which I used Django and djangorestframework a python Framework with Bootstrap and jquery library.
 ## What Inside folder
 - django complete setup include
     - django project
     - django app
-    - templates
-    - static files
 - screen shot folder
 - requirements.txt
 
 ## What Technology use
 - Python
 - Django
-- Bootsrap
+- django-restframework
 - dbsqlite
-- WeasyPrint
 - Git
 - Github
 
 ## What Are the features include in this assignment
 - Django built-in user authentication
-- bootstrap ui design
+- API CRUD operation
 - dbsqlite database
 - modal impliments
 
 ## Screenshots
-- Home page ![screenshot 1](https://github.com/Kamalrathi49/salarybox/blob/master/screenshots/Screenshot%20(5).png?raw=true)
+- API objects ![screenshot 1](https://github.com/Kamalrathi49/django-RESTfullapi/blob/master/screenshots/Screenshot%20(59).png?raw=true)
  
-- Employee Page ![screenshot 1](https://github.com/Kamalrathi49/salarybox/blob/master/screenshots/Screenshot%20(6).png?raw=true)
+- Api CRUD operation ![screenshot 1](https://github.com/Kamalrathi49/django-RESTfullapi/blob/master/screenshots/Screenshot%20(61).png?raw=true)
 
-- Log In ![screenshot 1](https://github.com/Kamalrathi49/salarybox/blob/master/screenshots/Screenshot%20(7).png?raw=true)
+- API ![screenshot 1](https://github.com/Kamalrathi49/django-RESTfullapi/blob/master/screenshots/Screenshot%20(58).png?raw=true)
 
-- Sign Up ![screenshot 1](https://github.com/Kamalrathi49/salarybox/blob/master/screenshots/Screenshot%20(8).png?raw=true)
 
 
 ## How To Run 
 - clone the project from Github.
-  -  Git clone https://github.com/Kamalrathi49/salarybox.git
-  -  cd salary_box
+  -  Git clone https://github.com/Kamalrathi49/django-RESTfullapi.git
+  -  cd project
 - Start virtual environment
   - python -m venv env
   - window
