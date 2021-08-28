@@ -1,5 +1,6 @@
 # django-RESTfullapi
 ### Demo - https://django-restfullapi.herokuapp.com/
+### Api - https://django-restfullapi.herokuapp.com/?format=json
 #### Code - https://github.com/Kamalrathi49/django-RESTfullapi
 #### Detail Brochure
 
@@ -16,7 +17,7 @@
 ## What Technology use
 - Python
 - Django
-- djangorestframework
+- django-rest-framework
 - dbsqlite
 - Git
 - Github
