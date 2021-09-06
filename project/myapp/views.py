@@ -23,7 +23,6 @@ def newpost(request):
             return HttpResponse('Bad Request')
     else:
          form = PostForm()
-         print('------------------>>', form)
          ctx = {'form': form}
          return render(request, 'newpost.html', ctx)
             
