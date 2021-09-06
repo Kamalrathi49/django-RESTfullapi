@@ -8,7 +8,6 @@ Grade = [
     ('bad', -1)
 ]
 
-# DataFlair
 class Post(models.Model):
     book_name = models.CharField(max_length = 100)
     author = models.CharField(max_length = 100)

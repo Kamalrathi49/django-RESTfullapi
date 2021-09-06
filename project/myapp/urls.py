@@ -5,6 +5,7 @@ from myapp import views
 
 urlpatterns = [
     path('', views.API_objects.as_view()),
+    path('new-post/', views.newpost, name='new-post'),
     path('basic/<int:pk>/', views.API_objects_details.as_view()),
 ]
 
